@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#191d51">
+  <meta name="description" content="An interactive example participant report from the Behaviour Button study, preserved as a standalone HTML5 experience.">
+  <title>Participant report · Behaviour Button</title>
+  <link rel="stylesheet" href="./assets/report/report.css?v=20261012-2">
+  <script defer src="./assets/report/report-scenes.js?v=20261012-2"></script>
+  <script defer src="./assets/report/report-runtime.js?v=20261012-2"></script>
+</head>
+<body>
+  <main class="report-app" id="report-app" aria-label="Behaviour Button example participant report">
+    <header class="report-header">
+      <a href="./index.html#experience" class="back-to-project">← Behaviour Button</a>
+      <span>Example participant report</span>
+    </header>
+    <div class="report-viewport" id="report-viewport">
+      <section class="report-stage" id="report-stage" aria-label="Report page" tabindex="-1">
+        <p class="loading-note" id="loading-note" role="status">Opening your report…</p>
+        <noscript><p class="loading-note">Enable JavaScript to explore the interactive report.</p></noscript>
+      </section>
+    </div>
+    <nav class="report-controls" aria-label="Report controls">
+      <button id="previous-page" type="button" aria-label="Previous page" title="Previous page (Left arrow)">←</button>
+      <span class="page-position" id="page-position" aria-live="polite" aria-atomic="true">1 / 12</span>
+      <button id="next-page" type="button" aria-label="Next page" title="Next page (Right arrow)">→</button>
+      <span class="control-divider" aria-hidden="true"></span>
+      <button id="pause-report" type="button" aria-pressed="false" title="Pause automatic transitions (Space)">Pause</button>
+      <button id="fit-report" type="button" aria-pressed="false" title="Switch between fitting the page and fitting its width">Larger</button>
+      <button id="restart-report" type="button" title="Return to the cover (Home)">Restart</button>
+    </nav>
+    <p class="report-hint">Use the report’s arrows or your keyboard. Space pauses timed pages.</p>
+    <div id="report-announcement" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></div>
+  </main>
+</body>
+</html>

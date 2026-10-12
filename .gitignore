@@ -1,0 +1,21 @@
+# Local review and generated copies
+.review/
+node_modules/
+*.zip
+*.log
+*.tmp
+*.bak
+
+# Machine-specific files and local credentials
+.DS_Store
+Thumbs.db
+Desktop.ini
+.env
+.env.*
+!.env.example
+
+# Original design sources belong in the project archive
+*.fig
+*.step
+*.stp
+*.f3d

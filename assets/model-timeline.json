@@ -1,0 +1,103 @@
+[
+  {
+    "id": "design-1",
+    "designNumber": 1,
+    "title": "Visible internals",
+    "subtitle": "A frosted enclosure with monochrome e-ink.",
+    "paragraphs": [
+      "I began with a paper prototype for a frosted plastic enclosure. The concept would keep the internal components visible, with a monochrome e-ink display providing participant feedback."
+    ],
+    "designFocus": "Transparency and feedback",
+    "modelSrc": "./assets/design-7.glb",
+    "modelStatus": "placeholder",
+    "poster": "./assets/model-poster.webp",
+    "modelLabel": "Design 7 enclosure model shown as a placeholder for Design 1"
+  },
+  {
+    "id": "design-2",
+    "designNumber": 2,
+    "title": "A kitchen appliance direction",
+    "subtitle": "A bulkier form with a backlit LCD.",
+    "paragraphs": [
+      "I explored a much bulkier form with the character of a kitchen appliance. This direction used a dual-colour backlit LCD as the proposed feedback display."
+    ],
+    "designFocus": "Form and display character",
+    "modelSrc": "./assets/design-7.glb",
+    "modelStatus": "placeholder",
+    "poster": "./assets/model-poster.webp",
+    "modelLabel": "Design 7 enclosure model shown as a placeholder for Design 2"
+  },
+  {
+    "id": "design-3",
+    "designNumber": 3,
+    "title": "A thin display and heavier base",
+    "subtitle": "A miniature all-in-one computer.",
+    "paragraphs": [
+      "I paired a very thin e-ink display with a heavier base intended to house the computing hardware. I approached it like a miniature all-in-one computer, with the screen and computing components occupying different areas of the same object."
+    ],
+    "designFocus": "Display and hardware arrangement",
+    "modelSrc": "./assets/design-7.glb",
+    "modelStatus": "placeholder",
+    "poster": "./assets/model-poster.webp",
+    "modelLabel": "Design 7 enclosure model shown as a placeholder for Design 3"
+  },
+  {
+    "id": "design-4",
+    "designNumber": 4,
+    "title": "The structure takes shape",
+    "subtitle": "An angled display and layered internals.",
+    "paragraphs": [
+      "Design 4 established the direction around a 4.26-inch e-ink display, a Raspberry Pi 4 behind it and a kickstand to set the viewing angle. I explored a clear acrylic front inspired by the iMac G4, but bonding the display to it with resin was difficult to achieve and repeat.",
+      "The internal sandwich structure carried into later designs, along with the ISS-inspired part names. The Integrated Truss Structure supported the Pi and display and provided routes for the USB-C and RJ45 cables."
+    ],
+    "designFocus": "Internal structure and assembly",
+    "modelSrc": "./assets/design-7.glb",
+    "modelStatus": "placeholder",
+    "poster": "./assets/model-poster.webp",
+    "modelLabel": "Design 7 enclosure model shown as a placeholder for Design 4"
+  },
+  {
+    "id": "design-5",
+    "designNumber": 5,
+    "title": "Connections built in",
+    "subtitle": "A remodelled enclosure with cables through the stand.",
+    "paragraphs": [
+      "I remodelled the exterior using what I had learned from Design 4. A frosted acrylic label at the upper rear held the hardware information and serial number.",
+      "Feedback from the first pilot led me to incorporate built-in cables exiting through the rear stand. Participants wanted to avoid having to choose and connect the wrong cables."
+    ],
+    "designFocus": "Cable routing and setup",
+    "modelSrc": "./assets/design-7.glb",
+    "modelStatus": "placeholder",
+    "poster": "./assets/model-poster.webp",
+    "modelLabel": "Design 7 enclosure model shown as a placeholder for Design 5"
+  },
+  {
+    "id": "design-6",
+    "designNumber": 6,
+    "title": "Refining the build",
+    "subtitle": "Printability, cost and a slimmer branch.",
+    "paragraphs": [
+      "Design 6 stayed close to Design 5. I focused on printability and the bill of materials, removing the acrylic rear label strip because of cost. I also made a few hubs for firmware development and continued exploring the packaging."
+    ],
+    "revisionNote": "Within Design 6, the frame became slimmer around revision 6.3. The asymmetric branch I called Design 6.4 Slim prompted further work on the internal arrangement.",
+    "designFocus": "Printability and internal layout",
+    "modelSrc": "./assets/design-7.glb",
+    "modelStatus": "placeholder",
+    "poster": "./assets/model-poster.webp",
+    "modelLabel": "Design 7 enclosure model shown as a placeholder for Design 6"
+  },
+  {
+    "id": "design-7",
+    "designNumber": 7,
+    "title": "The final thin frame",
+    "subtitle": "A symmetrical form with repackaged internals.",
+    "paragraphs": [
+      "The slim branch led to Design 7, the final design with a symmetrical thin frame. I reworked the internal arrangement through repeated small dimensional adjustments to make the parts fit within the slimmer form."
+    ],
+    "designFocus": "Symmetry and internal packaging",
+    "modelSrc": "./assets/design-7.glb",
+    "modelStatus": "available",
+    "poster": "./assets/model-poster.webp",
+    "modelLabel": "Design 7 enclosure model"
+  }
+]

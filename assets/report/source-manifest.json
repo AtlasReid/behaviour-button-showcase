@@ -1,0 +1,250 @@
+{
+  "source": "Hub02-TN.fig",
+  "sourceSha256": "30e4655669288594166e453af014b53e2ccf435b1a30d017cfd39cf2a61cca8a",
+  "logicalPages": 12,
+  "nativeFrames": 13,
+  "rendering": "Native vector geometry and original glyph outlines; native raster chart assets in exact source slots.",
+  "externalFonts": false,
+  "images": [
+    {
+      "path": "images/0e1573defae4adf50886a298a19a52639037f9c3.png",
+      "sha256": "afe56c962f27a8c3f137444b5bf2a5b36de27fc3da38d736927f0c48e5e154fa",
+      "width": 2143,
+      "height": 602,
+      "bytes": 61945
+    },
+    {
+      "path": "images/0e3f70d8911659c3b586711b7a4e46fc6a004ce2.png",
+      "sha256": "d459a35cf3c2d825aeac8e9552c4f83edf84a027bcc9e0c9eea9317d653d1457",
+      "width": 2143,
+      "height": 602,
+      "bytes": 61822
+    },
+    {
+      "path": "images/1c6128bc865c3436c8340cd4537d920178f1183d.png",
+      "sha256": "ff3b9cc44f0213244a35f1c5b8a09019b920db68d5d6880f0444e90448587e11",
+      "width": 2143,
+      "height": 602,
+      "bytes": 61642
+    },
+    {
+      "path": "images/1e59c8ab0fa54c038f875cf778b0d18df03ddf30.png",
+      "sha256": "f0accb32e3fa5b56dbdbaa5bbbca1eeefb05f8141278e6a9a159bf5d867d1ca4",
+      "width": 2143,
+      "height": 602,
+      "bytes": 61637
+    },
+    {
+      "path": "images/310ed892ecb76953b7dc8f1a5857e2ee6cdb222c.png",
+      "sha256": "d86295c9c50988966abc4c7aff179e7c216a0a73d73608c5f7c99591069ca177",
+      "width": 2143,
+      "height": 602,
+      "bytes": 61749
+    },
+    {
+      "path": "images/3dc6bdac3c2f9f50d82f7481f45dcf9f37e29fa8.png",
+      "sha256": "d229e858d06782659c826bf2cd0ccc0ea26891d211e7321ef8426bde5252713e",
+      "width": 2143,
+      "height": 602,
+      "bytes": 61774
+    },
+    {
+      "path": "images/465e5c2508067baf5ba53ec9932ced33fd58f6f5.png",
+      "sha256": "956ad56f68081c5217a5592219dafdb5c1292752718ccd91964b9d951d58db53",
+      "width": 2143,
+      "height": 602,
+      "bytes": 61650
+    },
+    {
+      "path": "images/5ec9d700d12b5c4eeceac70845f9bcb5ebe220bf.png",
+      "sha256": "5e5378a72b2199e6ed0e4ba224168138338164d1440b1a0ee70cec3b01e2b31f",
+      "width": 2143,
+      "height": 602,
+      "bytes": 61736
+    },
+    {
+      "path": "images/626034e55c1eb6ac8aa91fa895e47372614c8eda.png",
+      "sha256": "4297422c26806dd2ffa6c2ade786568df5ab4b816eb385ca4f52d6cc0c410cbb",
+      "width": 2143,
+      "height": 602,
+      "bytes": 61931
+    },
+    {
+      "path": "images/75cce1956c633eabd55bd94f48f4afe1d8b5e026.png",
+      "sha256": "21cec66c858ab3c9420b490c41b920ae6f7c6958e5d579d0a1cc10f0ad66cda1",
+      "width": 2143,
+      "height": 602,
+      "bytes": 62217
+    },
+    {
+      "path": "images/7fca8ed63cc01384e6522a8fd261522e016d15c4.png",
+      "sha256": "0594d3d651847f184531bd4b51bf0667f0468a133e54fc6b1b19096caaaded41",
+      "width": 2143,
+      "height": 602,
+      "bytes": 61763
+    },
+    {
+      "path": "images/b263d911001e004c81b8f29371ada05c326d8db7.png",
+      "sha256": "281665a27a81cae4800d8d95f7abe66a1e3e2c374c276d4604beed1b7906754b",
+      "width": 2143,
+      "height": 602,
+      "bytes": 61636
+    },
+    {
+      "path": "images/b8c2b3080c4d0a624c0148633e6a1df23f1de03a.png",
+      "sha256": "a339934f92621600570ba396bc9417685e75bfc49dd3cc7745840daedbbaff90",
+      "width": 2143,
+      "height": 602,
+      "bytes": 61676
+    },
+    {
+      "path": "images/ba20b79ea617aeb3df7ca3d80088c5ad356bbe35.png",
+      "sha256": "e96573429febda63e4d0b822e00e4747bc21918bffa41aeb27619aa3947c2aea",
+      "width": 2143,
+      "height": 602,
+      "bytes": 61801
+    },
+    {
+      "path": "images/d0937b7476b1470be90b31357ec17bec41f6c931.png",
+      "sha256": "99395fea53e70fa503d5d8781b0c3e8999087387ef8ddc0bef01964239c3c8a0",
+      "width": 891,
+      "height": 251,
+      "bytes": 17842
+    },
+    {
+      "path": "images/d1680c20be5a2e3f645989a6c7b94b46d28eda96.png",
+      "sha256": "d8d9900a37f4ddb88105cc45b38f1ea5e3b96841d42ec688e328c27e420080f8",
+      "width": 2143,
+      "height": 602,
+      "bytes": 61985
+    },
+    {
+      "path": "images/d44f9cf8c13689e18c6bd420dc4f3f8d1761a415.png",
+      "sha256": "4dbbb7c6f2097a51e9802328e6de4b61b46639e0fe5863c69a158aa05b9a6acf",
+      "width": 2143,
+      "height": 602,
+      "bytes": 61627
+    },
+    {
+      "path": "images/e1c0a9d4b1ffbecde9e4e4439df6884cb75450cc.png",
+      "sha256": "7aba174fce0cd3081c4d64182ca26631a0ca893982a778c36f7d96ab7222d69b",
+      "width": 2143,
+      "height": 602,
+      "bytes": 61620
+    },
+    {
+      "path": "images/f904a028638507ceaa013e6ee3251b14c21dbc64.png",
+      "sha256": "11c106688e4c392790562be1dd858fe56e4310fe1604e8319607afcf146af001",
+      "width": 2143,
+      "height": 602,
+      "bytes": 62000
+    },
+    {
+      "path": "images/fc159ed3b84d4f01f2826cd0f4efefa4144d107e.png",
+      "sha256": "febfedc6a09a1afa1c501ab7a72cdd7ff2294cfc001d9a04a6cbfcc371b1c54c",
+      "width": 2143,
+      "height": 602,
+      "bytes": 62016
+    },
+    {
+      "path": "images/fe531735995d68129724734c1be7c12db3c00879.png",
+      "sha256": "e93ebf21072309e64f03eb7597ec6c91bb27c2f6235ea7465704b306cf9ada22",
+      "width": 2143,
+      "height": 602,
+      "bytes": 61630
+    }
+  ],
+  "pages": [
+    {
+      "id": "1:2303",
+      "slug": "cover",
+      "title": "Welcome",
+      "page": 1,
+      "transient": false
+    },
+    {
+      "id": "1:2235",
+      "slug": "total",
+      "title": "Participation summary",
+      "page": 2,
+      "transient": false
+    },
+    {
+      "id": "1:14915",
+      "slug": "5-load",
+      "title": "Most pressed behaviour",
+      "page": 3,
+      "transient": true
+    },
+    {
+      "id": "1:2589",
+      "slug": "5",
+      "title": "Most pressed behaviour",
+      "page": 3,
+      "transient": false
+    },
+    {
+      "id": "1:2438",
+      "slug": "stat-1",
+      "title": "Snacking context",
+      "page": 4,
+      "transient": false
+    },
+    {
+      "id": "1:2514",
+      "slug": "break",
+      "title": "Weekly introduction",
+      "page": 5,
+      "transient": false
+    },
+    {
+      "id": "1:2947",
+      "slug": "week-1",
+      "title": "Week 1: The Kick-off",
+      "page": 6,
+      "transient": false
+    },
+    {
+      "id": "1:8931",
+      "slug": "week-2",
+      "title": "Week 2: The Unexpected Pause",
+      "page": 7,
+      "transient": false
+    },
+    {
+      "id": "1:11923",
+      "slug": "week-3",
+      "title": "Week 3: The Midnight Snack",
+      "page": 8,
+      "transient": false
+    },
+    {
+      "id": "1:5939",
+      "slug": "week-4",
+      "title": "Week 4: The Morning Shift",
+      "page": 9,
+      "transient": false
+    },
+    {
+      "id": "1:2476",
+      "slug": "stat-2",
+      "title": "Meal box context",
+      "page": 10,
+      "transient": false
+    },
+    {
+      "id": "1:2676",
+      "slug": "fingerprint",
+      "title": "Behavioural fingerprint",
+      "page": 11,
+      "transient": false
+    },
+    {
+      "id": "1:2551",
+      "slug": "thanks",
+      "title": "Thank you",
+      "page": 12,
+      "transient": false
+    }
+  ]
+}
